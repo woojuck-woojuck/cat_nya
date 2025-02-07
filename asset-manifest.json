@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/cat_nya/static/js/main.5f87d175.js",
+    "main.js": "/cat_nya/static/js/main.b160ca56.js",
     "index.html": "/cat_nya/index.html",
-    "main.5f87d175.js.map": "/cat_nya/static/js/main.5f87d175.js.map"
+    "main.b160ca56.js.map": "/cat_nya/static/js/main.b160ca56.js.map"
   },
   "entrypoints": [
-    "static/js/main.5f87d175.js"
+    "static/js/main.b160ca56.js"
   ]
 }
